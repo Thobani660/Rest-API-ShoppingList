@@ -4,7 +4,7 @@ for managing a shopping list</h3>
 
 <h1>Running this Code</h1>
 <p>
-  clone :    <br></br>
+  clone : https://github.com/Thobani660/Rest-API-ShoppingList   <br></br>
   cd : Shopping-list-app <br></br>
   install : npm i<br></br>
   run : node server.js
